@@ -2,7 +2,7 @@
 # node_Study
 
 #### 介绍
-NodeJS Demo
+NodeJS Demo是一个版主用来学习node的项目。
 
 #### 软件架构
 软件架构说明
